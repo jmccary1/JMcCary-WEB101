@@ -7,12 +7,34 @@ contacts:
   - displayName: jmccary1
     pictureUrl: https://avatars.githubusercontent.com/u/254527436?v=4
     homePageUrl: https://github.com/jmccary1
+files:
+  - path: course1/unit1/lesson1/lessonpart1/index.html
+    content: "<!DOCTYPE html>\r
+
+      <html lang=\"en\">\r
+
+      \    <head>\r
+
+      \        <meta charset==UTF-8\">\r
+
+      \        <title>WEB101 Project</title>\r
+
+      \    </head>\r
+
+      \    <body>\r
+
+      \        <h1>J McCary - WEB101</h1>\r
+
+      \        <h2>Shoe Selling Event Website</h2>\r
+
+      \        <button>Contact</button>\r
+
+      \        <p>This website is for a shoe reselling event.</p>\r
+
+      \r
+
+      \    </body>\r
+
+      \    </html>"
 units:
-  - id: unit1
-    title: Unit 1
-    lessons:
-      - id: lesson1
-        title: Lesson 1
-        lessonParts:
-          - id: lessonpart1
-            title: Page 1
+  - unit1/index.yml
