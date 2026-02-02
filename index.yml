@@ -15,7 +15,7 @@ files:
 
       \    <head>\r
 
-      \        <meta charset==UTF-8\">\r
+      \        <meta charset=\"UTF-8\">\r
 
       \        <title>WEB101 Project</title>\r
 
@@ -23,7 +23,7 @@ files:
 
       \    <body>\r
 
-      \        <h1>J McCary - WEB101</h1>\r
+      \        <h1>J McCary-WEB101</h1>\r
 
       \        <h2>Shoe Selling Event Website</h2>\r
 
